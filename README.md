@@ -6,6 +6,10 @@ This is a lightweight, responsive portfolio site built with plain HTML, CSS, and
 
 The included `.gitlab-ci.yml` publishes the contents of `dist/` whenever a change is pushed to the default branch. After the GitLab pipeline finishes, open **Deploy > Pages** in the project to find the public portfolio URL.
 
+## GitHub Pages
+
+The included GitHub Actions workflow publishes `dist/` to GitHub Pages after every push to the `main` branch. In the GitHub repository, select **Settings > Pages > GitHub Actions** to enable it.
+
 ## Local preview
 
 Open `dist/index.html` in a browser, or serve the `dist` folder with any static web server.

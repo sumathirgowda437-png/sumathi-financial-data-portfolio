@@ -1,6 +1,6 @@
-# Sumathi R - Financial Data Analyst Portfolio
+# Sumathi R - Finance Operations & Financial Data Analyst Portfolio
 
-This is a lightweight, responsive portfolio site built with plain HTML, CSS, and JavaScript. It is designed to be easy to host on GitHub Pages, Netlify, or another static host.
+This is a lightweight, responsive portfolio site focused on finance operations, accounts receivable, investment data, financial reporting, SQL, and Power BI. It is built with plain HTML, CSS, and JavaScript and is designed to be easy to host on GitHub Pages, Netlify, or another static host.
 
 ## GitLab Pages
 
